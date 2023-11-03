@@ -1,2 +1,2 @@
-# Traffic
-Traffic accident data
+Salary
+Using linear regression on salary data
