@@ -1,2 +1,2 @@
 Salary
-Using linear regression on salary data
+Learning Python through small projects
